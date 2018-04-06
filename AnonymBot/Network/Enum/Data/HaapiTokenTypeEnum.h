@@ -1,0 +1,10 @@
+#ifndef HAAPITOKENTYPEENUM_H
+#define HAAPITOKENTYPEENUM_H
+
+enum class HaapiTokenTypeEnum
+{
+    HAAPI_APIKEY_GENERIC = 0,
+    HAAPI_APIKEY_SHOP = 1
+};
+
+#endif // HAAPITOKENTYPEENUM_H

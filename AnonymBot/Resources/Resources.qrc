@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>farmData.json</file>
+        <file>user.png</file>
+        <file>bankSettings.png</file>
+        <file>interaction.png</file>
+        <file>splashScreen.png</file>
+        <file>icon.ico</file>
+        <file>search.png</file>
+        <file>share.png</file>
+        <file>server.crt</file>
+        <file>view.png</file>
+        <file>job.png</file>
+        <file>informations.png</file>
+        <file>serverConnect.png</file>
+        <file>help.png</file>
+        <file>connectAll.png</file>
+        <file>connect.png</file>
+        <file>path.png</file>
+        <file>position.png</file>
+        <file>inventory.png</file>
+        <file>anonymbot.png</file>
+        <file>wind.png</file>
+        <file>water.png</file>
+        <file>fire.png</file>
+        <file>wisdom.png</file>
+        <file>ground.png</file>
+        <file>settings.png</file>
+        <file>craft.png</file>
+        <file>fight.png</file>
+        <file>flood.png</file>
+        <file>element.png</file>
+        <file>home.png</file>
+        <file>time.png</file>
+        <file>level.png</file>
+        <file>money.png</file>
+        <file>icon.icns</file>
+        <file>character.png</file>
+        <file>connect.svg</file>
+        <file>disconnect.svg</file>
+    </qresource>
+</RCC>

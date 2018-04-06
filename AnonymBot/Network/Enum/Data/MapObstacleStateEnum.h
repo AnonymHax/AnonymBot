@@ -1,0 +1,10 @@
+#ifndef MAPOBSTACLESTATEENUM_H
+#define MAPOBSTACLESTATEENUM_H
+
+enum class MapObstacleStateEnum
+{
+    OBSTACLE_OPENED = 1,
+    OBSTACLE_CLOSED = 2
+};
+
+#endif // MAPOBSTACLESTATEENUM_H

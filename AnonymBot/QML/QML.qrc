@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>MainInterface.qml</file>
+        <file>BotInterface/BotInterface.qml</file>
+        <file>BotInterface/Console.qml</file>
+        <file>BotInterface/Map.qml</file>
+        <file>ViewDelegates/BotSelectorDelegate.qml</file>
+        <file>BotInterface/BubblesCard.qml</file>
+        <file>BotInterface/StatesCard.qml</file>
+        <file>BotInterface/PositionCard.qml</file>
+        <file>BotInterface/LogsCard.qml</file>
+        <file>BotInterface/Inventory.qml</file>
+        <file>BotInterface/Character.qml</file>
+        <file>BotInterface/Parameters.qml</file>
+        <file>BotInterface/Fight.qml</file>
+        <file>BotInterface/Flood.qml</file>
+        <file>BotInterface/Craft.qml</file>
+        <file>BotInterface/BasicStatsCard.qml</file>
+        <file>BotInterface/SpellsCard.qml</file>
+        <file>BotInterface/PrimaryStatsCard.qml</file>
+        <file>BotInterface/JobsCard.qml</file>
+        <file>BotInterface/Completer.qml</file>
+        <file>BotInterface/FightSpellsCard.qml</file>
+    </qresource>
+</RCC>

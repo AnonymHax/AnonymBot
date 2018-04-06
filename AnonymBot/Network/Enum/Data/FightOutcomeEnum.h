@@ -1,0 +1,13 @@
+#ifndef FIGHTOUTCOMEENUM_H
+#define FIGHTOUTCOMEENUM_H
+
+enum class FightOutcomeEnum
+{
+    RESULT_LOST = 0,
+    RESULT_DRAW = 1,
+    RESULT_VICTORY = 2,
+    RESULT_TAX = 5,
+    RESULT_DEFENDER_GROUP = 6
+};
+
+#endif // FIGHTOUTCOMEENUM_H

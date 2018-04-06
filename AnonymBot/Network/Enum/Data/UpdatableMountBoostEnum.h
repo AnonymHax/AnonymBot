@@ -1,0 +1,15 @@
+#ifndef UPDATABLEMOUNTBOOSTENUM_H
+#define UPDATABLEMOUNTBOOSTENUM_H
+
+enum class UpdatableMountBoostEnum
+{
+    STAMINA = 3,
+    MATURITY = 5,
+    ENERGY = 1,
+    SERENITY = 2,
+    LOVE = 4,
+    TIREDNESS = 6,
+    RIDEABLE = 7
+};
+
+#endif // UPDATABLEMOUNTBOOSTENUM_H

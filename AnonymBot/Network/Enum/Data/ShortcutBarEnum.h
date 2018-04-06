@@ -1,0 +1,10 @@
+#ifndef SHORTCUTBARENUM_H
+#define SHORTCUTBARENUM_H
+
+enum class ShortcutBarEnum
+{
+    GENERAL_SHORTCUT_BAR = 0,
+    SPELL_SHORTCUT_BAR = 1
+};
+
+#endif // SHORTCUTBARENUM_H
