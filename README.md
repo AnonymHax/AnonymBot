@@ -1,6 +1,6 @@
 # AnonymBot
 
-Ceci est l'ancien projet AnonymBot, étant un bot socket Dofus 2.0
+Ceci est l'ancien projet AnonymBot, étant un bot socket Dofus 2.0, réalisé par G0hu et moi (AnonymHax)
 
 Voici ses fonctionnalités:
 
