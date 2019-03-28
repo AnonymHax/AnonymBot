@@ -1,73 +1,72 @@
 # AnonymBot
 
-Ceci est l'ancien projet AnonymBot, étant un bot socket Dofus 2.0, réalisé par G0hu et moi (AnonymHax)
+This is the old AnonymBot project, being a Dofus 2.0 socket bot, made by G0hu and me (AnonymHax)
 
-Voici ses fonctionnalités:
+Here are its features:
 
-- Metiers
-- IA de combat
-- Systeme de scripts pour les combats / métiers
-- Système de groupe 
+- Shops
+- Fighting AI
+- Scripts system for fights / trades
+- Group system
 - Follow
-- Gestion de caractéristiques / sorts
+- Character / Spell Management
 - Flood
-- Echange
-- Système de groupe
-- Système de réponse humaine (CleverBot)
-- Bypass des securités anti-bot (ayant changées depuis l'arret du projet)
+- Exchange
+- Group system
+- Human response system (CleverBot)
+- Bypass of anti-bot security (having changed since the end of the project)
 
-Certaines fonctionnalités étaient encore à explorer et finir, mais pourront aider certains dans la mise en oeuvre de leur propres bots
+Some features were still to explore and finish, but may help some in the implementation of their own bots
 
-Le projet se divise en 3 parties:
+The project is divided into 3 parts:
 
-AnonymBot : le bot réalisé en C++ / Qt avec QML pour l'interface
-SlaveMaker: Le serveur en C++ / Qt gérant les abonnements premium/gratuit pour utiliser le bot (le bot n'est plus commercialisé désormais), et gerant les échanges avec un client Dofus injecté pour bypass certaines sécurités anti-bot (révolu)
-CodeGenerator: Traducteur automatique des protocoles du code-source du jeu en AS3 vers notre propre protocole en C++
+AnonymBot: the bot made in C ++ / Qt with QML for the interface
+SlaveMaker: The server in C ++ / Qt managing the premium / free subscriptions to use the bot (the bot is no longer marketed now), and managing exchanges with a client Dofus injected to bypass some anti-bot security (gone)
+CodeGenerator: Automatic translator of source code protocols from the AS3 game to our own C ++ protocol
 
-Avant son arret, le bot subissait une refonte de son interface graphique en QML, bien que la majorité des fonctionnalités étaient achevées, ainsi l'interface actuelle ne represente qu'une petite partie de ses capacités. Certains anciens screenshots permettent d'entrevoir toutes les capacités.
+Before it stopped, the bot was re-designed in QML, although most of the features were complete, so the current interface is only a small part of its capabilities. Some old screenshots allow to glimpse all abilities.
 
 Screenshots:
  
-Interface de selection des differents comptes, avec vue générale (UI QML):
- 
+Interface for selecting different accounts, with a general view (UI QML):
+
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen2.png?raw=true)
 
-Chat principal, et interface de commande (UI QML):
+Main Chat, and Command Interface (UI QML):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen3.png?raw=true)
 
-Representation simplifiée de la carte courante et des éléments interactifs (UI QML):
+Simplified representation of the current map and interactive elements (UI QML):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen4.png?raw=true)
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen5.png?raw=true)
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen6.png?raw=true)
 
-Chat principal, et interface de commande (UI QT): 
+Main Chat, and Command Interface (UI QT):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen7.png?raw=true)
 
-Gestion inventaire (UI QT):
+Inventory Management (UI QT):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen8.png?raw=true)
 
-Gestion caracteristiques (UI QT):
+Characteristic management (UI QT):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen9.png?raw=true)
 
-Gestion flood/échange/réponse humaine - CleverBot (UI QT):
+Flood management / exchange / human response - CleverBot (UI QT):
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen10.png?raw=true)
 
-Gestion combat:
+Battle Management:
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen11.png?raw=true)
 
-Informations sur la qualité de la connexion socket:
+Socket connection informations:
 
 ![image](https://github.com/AnonymHax/AnonymBot/blob/master/screenshots/screen12.png?raw=true)
 
 
-Autres fonctionnalités sans screenshots présentes
-
+Other terminal features without screenshots present
 
 
